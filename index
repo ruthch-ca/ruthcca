@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
+  <title>CAD Technician & BIM Technologist</title>
   <style>
     body {
       font-family: system-ui, -apple-system, sans-serif;
@@ -42,13 +42,12 @@
     <div class="card">
       <h3>KPU Cloverdale</h3>
       <p>Architectural + Structural Model, using Revit 2024.</p>
-      <a href="https://ruthch-ca.github.io/ruthcca/" target="_blank">View Code &rarr;</a>
     </div>
   </section>
 
   <section>
     <h2>Contact</h2>
-    <p>Feel free to reach out via <a href="mailto:ruthch1224@gmail.com">Email</a> or connect on <a href="www.linkedin.com/in/ruth-c-465028291">LinkedIn</a>.</p>
+    <p>Feel free to reach out via Email or LinkedIn.</p>
   </section>
 
 </body>
